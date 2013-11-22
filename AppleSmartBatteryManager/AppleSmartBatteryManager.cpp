@@ -209,7 +209,7 @@ IOReturn AppleSmartBatteryManager::setPollingInterval(int milliSeconds)
 }
 
 /******************************************************************************
- * AppleSmartBatteryManager::setPowerState
+ * AppleSmartBatteryManager::setPowerState - demo
  *
  ******************************************************************************/
 
